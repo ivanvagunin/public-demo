@@ -1,0 +1,1 @@
+whoami | Out-File C:\Temp\log.txt
